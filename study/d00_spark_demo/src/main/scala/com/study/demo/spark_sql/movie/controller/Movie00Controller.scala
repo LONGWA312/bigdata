@@ -9,7 +9,7 @@ class Movie00Controller extends BaseController{
 
     override def execute(): Unit = {
         val time0 = System.currentTimeMillis()
-        service.analysis()
+        service.analysis1()
         val time1 = System.currentTimeMillis()
         println("**********************************\n analysis1 execute time: " + (time1-time0)/1000d + "s\n**********************************")
     }
