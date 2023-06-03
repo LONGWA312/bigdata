@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/s00_spark_study/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s00_spark_study/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s00_spark_study/src/test/java/com/study/spark/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +28,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/WorkSpace/IdeaProjects/Git/bigdata/study/d00_spark_demo/src/main/scala/com/study/demo/utils",
+    "last_opened_file_path": "D:/WorkSpace/IdeaProjects/Git/bigdata/study/s00_spark_study/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,11 +42,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\s00_spark_study\src\main\resources" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\utils" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\s00_spark_study\data\input" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\s00_spark_study\src\main\scala\com\study\spark\base" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark_sql\movie\application" />
-      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark_sql\movie\controller" />
     </key>
   </component>
   <component name="RunManager" selected="Application._40_Spark_Rdd_TakeOrdered">
@@ -151,7 +139,7 @@
       <workItem from="1685717673826" duration="4901000" />
       <workItem from="1685724458135" duration="733000" />
       <workItem from="1685760949148" duration="4065000" />
-      <workItem from="1685784314693" duration="3267000" />
+      <workItem from="1685784314693" duration="3979000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1685714109882</created>
