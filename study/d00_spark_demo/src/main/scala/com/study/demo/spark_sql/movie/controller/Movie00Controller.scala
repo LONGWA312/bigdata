@@ -1,6 +1,6 @@
 package com.study.demo.spark_sql.movie.controller
 
-import com.study.demo.spark_sql.common.BaseController
+import com.study.demo.common.BaseController
 import com.study.demo.spark_sql.movie.service.Movie00Service
 
 class Movie00Controller extends BaseController{

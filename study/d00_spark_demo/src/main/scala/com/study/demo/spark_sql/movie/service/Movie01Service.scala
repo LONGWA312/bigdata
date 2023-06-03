@@ -1,7 +1,6 @@
 package com.study.demo.spark_sql.movie.service
 
-
-import com.study.demo.spark_sql.common.BaseService
+import com.study.demo.common.BaseService
 import com.study.demo.spark_sql.movie.dao.MovieDao
 import com.study.demo.utils.EnvUtil
 import org.apache.spark.sql.functions._

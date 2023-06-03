@@ -1,6 +1,6 @@
 package com.study.demo.spark_sql.movie.application
 
-import com.study.demo.spark_sql.common.BaseApplication
+import com.study.demo.common.BaseApplication
 import com.study.demo.spark_sql.movie.controller.Movie00Controller
 /*
 1、求被评分次数最多的 10 部电影，并给出评分次数（电影名，评分次数）

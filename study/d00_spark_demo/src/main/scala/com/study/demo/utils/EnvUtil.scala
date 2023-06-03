@@ -16,6 +16,7 @@ object EnvUtil {
 
     def put(sparkSession: SparkSession): Unit = {
         sparkSessionLocal.set(sparkSession)
+        sparkContextLocal.set(sparkSession.sparkContext)
     }
 
 

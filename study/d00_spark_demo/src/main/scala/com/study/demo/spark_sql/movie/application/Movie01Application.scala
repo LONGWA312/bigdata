@@ -1,6 +1,6 @@
 package com.study.demo.spark_sql.movie.application
 
-import com.study.demo.spark_sql.common.BaseApplication
+import com.study.demo.common.BaseApplication
 import com.study.demo.spark_sql.movie.controller.Movie01Controller
 
 

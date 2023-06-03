@@ -1,6 +1,6 @@
 package com.study.demo.spark_sql.movie.dao
 
-import com.study.demo.spark_sql.common.BaseDao
+import com.study.demo.common.BaseDao
 import com.study.demo.spark_sql.movie.bean.{Movie, Rating, User}
 import com.study.demo.utils.EnvUtil
 import org.apache.spark.sql.Dataset
