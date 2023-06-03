@@ -121,11 +121,6 @@ class Movie03Service extends BaseService{
         spark.sql(sql_femaleTimes).show(false)
         spark.sql(sql_maleTimes).show(false)
 
-
-
-
-
-
     }
 
 

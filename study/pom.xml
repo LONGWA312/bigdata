@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>d00_spark_demo</module>
+	  <module>s00_spark_study</module>
   </modules>
 
   <properties>

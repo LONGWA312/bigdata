@@ -9,6 +9,7 @@ object Movie02Application extends App with BaseApplication{
 
     val start = System.currentTimeMillis()
 
+
     startup("Movie02Application") {
         val controller = new Movie02Controller()
         controller.execute()

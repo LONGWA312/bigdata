@@ -1,0 +1,6 @@
+hello word scala
+scala spark spark
+hive map reduce
+kafka spring test
+spring kafka redis
+scala hello word

@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/s00_spark_study/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s00_spark_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s00_spark_study/src/test/java/com/study/spark/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d00_spark_demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d00_spark_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie00Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie00Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie00Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie00Controller.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +40,34 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/WorkSpace/IdeaProjects/Git/bigdata/study/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application",
+    "last_opened_file_path": "D:/WorkSpace/IdeaProjects/Git/bigdata/study/d00_spark_demo/src/main/scala/com/study/demo/utils",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.14959723",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\utils" />
+      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\s00_spark_study\data\input" />
+      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\s00_spark_study\src\main\scala\com\study\spark\base" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark_sql\movie\application" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark_sql\movie\controller" />
-      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark_sql\movie\service" />
-      <recent name="D:\WorkSpace\IdeaProjects\Git\study\study\d00_spark_demo\data\input" />
-      <recent name="D:\WorkSpace\IdeaProjects\Git\study\study\d00_spark_demo\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Movie02Application">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.Main" />
-      <module name="d00_spark_demo" />
+  <component name="RunManager" selected="Application._40_Spark_Rdd_TakeOrdered">
+    <configuration name="Spark_Rdd_Filter_Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.base.Spark_Rdd_Filter_Test" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.*" />
+          <option name="PATTERN" value="com.study.spark.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie00Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie00Application" />
-      <module name="d00_spark_demo" />
+    <configuration name="Spark_Rdd_GroupBy_Test2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.base.Spark_Rdd_GroupBy_Test2" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie01Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie01Application" />
-      <module name="d00_spark_demo" />
+    <configuration name="_24_Spark_Rdd_ReduceByKey" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.base._24_Spark_Rdd_ReduceByKey" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie02Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie02Application" />
-      <module name="d00_spark_demo" />
+    <configuration name="_33_Spark_Rdd_Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.base._33_Spark_Rdd_Test" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie03Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie03Application" />
-      <module name="d00_spark_demo" />
+    <configuration name="_40_Spark_Rdd_TakeOrdered" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.base._40_Spark_Rdd_TakeOrdered" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Movie02Application" />
-        <item itemvalue="Application.Movie01Application" />
-        <item itemvalue="Application.Movie00Application" />
-        <item itemvalue="Application.Movie03Application" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application._40_Spark_Rdd_TakeOrdered" />
+        <item itemvalue="Application._33_Spark_Rdd_Test" />
+        <item itemvalue="Application._24_Spark_Rdd_ReduceByKey" />
+        <item itemvalue="Application.Spark_Rdd_Filter_Test" />
+        <item itemvalue="Application.Spark_Rdd_GroupBy_Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +149,9 @@
       <workItem from="1685710835747" duration="20000" />
       <workItem from="1685713901382" duration="2081000" />
       <workItem from="1685717673826" duration="4901000" />
+      <workItem from="1685724458135" duration="733000" />
+      <workItem from="1685760949148" duration="4065000" />
+      <workItem from="1685784314693" duration="3267000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1685714109882</created>
@@ -163,5 +176,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
