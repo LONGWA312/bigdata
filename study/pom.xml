@@ -12,6 +12,7 @@
   <modules>
     <module>d00_spark_demo</module>
 	  <module>s00_spark_study</module>
+    <module>s01_scala_study</module>
   </modules>
 
   <properties>
