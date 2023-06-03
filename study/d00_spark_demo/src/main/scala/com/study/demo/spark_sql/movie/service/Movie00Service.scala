@@ -13,7 +13,7 @@ class Movie00Service extends BaseService{
         println(this.getClass.getName)
     }
 
-    def analysis1(): Any = {
+    override def analysis1(): Any = {
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._

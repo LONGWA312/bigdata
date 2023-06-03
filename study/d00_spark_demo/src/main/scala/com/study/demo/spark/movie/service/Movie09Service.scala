@@ -86,7 +86,7 @@ class Movie09Service extends BaseService{
 
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
 
         //获得所有电影的movieID，name，types      (movieID, (name, types))

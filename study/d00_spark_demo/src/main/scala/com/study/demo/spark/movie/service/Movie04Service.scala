@@ -75,7 +75,7 @@ class Movie04Service extends BaseService{
     }
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         val userID_sex_age: RDD[(String, (String, Int))] = movieDao.usersRdd.map(x => (x._1, (x._2, x._3.toInt))).filter(x =>{
             x._2._2 >= 18 && x._2._2 <= 24 && x._2._1 == "M"

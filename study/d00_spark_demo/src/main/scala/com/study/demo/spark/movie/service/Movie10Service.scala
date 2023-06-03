@@ -64,7 +64,7 @@ class Movie10Service extends BaseService{
 
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
 
         //(movieID, year)

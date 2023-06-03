@@ -40,7 +40,7 @@ class Movie01Service extends BaseService{
     }
 
 
-    override def analysis2(data: Any): Any = {
+    override def analysis2(): Any = {
 
         //获取电影id与对应的评分次数
         val movieID_rating: RDD[(String, Int)] = movieDao.ratingsRdd.map(x => (x._2, 1))

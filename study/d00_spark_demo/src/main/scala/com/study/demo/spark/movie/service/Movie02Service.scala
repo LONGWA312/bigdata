@@ -106,7 +106,7 @@ class Movie02Service extends BaseService{
     }
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         /**
          * 2、分别求男性，女性当中评分最高的 10 部电影（性别，电影名，影评分）

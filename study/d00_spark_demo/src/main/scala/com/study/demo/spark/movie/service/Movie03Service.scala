@@ -52,7 +52,7 @@ class Movie03Service extends BaseService{
     }
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         val userID_sex: RDD[(String, String)] = movieDao.usersRdd.map(x => (x._1, x._2))
         //(userID, movieID)

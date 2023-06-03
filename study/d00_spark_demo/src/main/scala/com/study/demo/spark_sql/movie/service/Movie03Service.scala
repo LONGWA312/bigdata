@@ -52,7 +52,7 @@ class Movie03Service extends BaseService{
 
     }
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -124,7 +124,7 @@ class Movie03Service extends BaseService{
     }
 
 
-    def analysis3(): Unit ={
+    override def analysis3(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -140,7 +140,7 @@ class Movie03Service extends BaseService{
     }
 
 
-    def analysis4(): Unit ={
+    override def analysis4(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._

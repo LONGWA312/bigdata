@@ -99,7 +99,7 @@ class Movie06Service extends BaseService{
     }
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         //(userID, Iterable(userID, movieID, rating, time_stamp))  ---> (userID, times)
         val userID_times: RDD[(String, Int)] = movieDao.ratingsRdd.groupBy(_._1).map(x => (x._1, x._2.size))

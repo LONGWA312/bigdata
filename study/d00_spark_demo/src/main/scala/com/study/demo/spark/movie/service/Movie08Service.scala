@@ -68,7 +68,7 @@ class Movie08Service extends BaseService{
 
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         //(movieID, (name, year, type))
         val movieID_name_year_type: RDD[(String, (String, String, String))] = movieDao.moviesRdd

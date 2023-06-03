@@ -102,7 +102,7 @@ class Movie07Service extends BaseService{
 
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         //1、找到所有的好片的movieID
         //(movieID, rating) ---> (movieID, Iterable(rating))  ---> (movieID, avg)（avg >= 4.0）

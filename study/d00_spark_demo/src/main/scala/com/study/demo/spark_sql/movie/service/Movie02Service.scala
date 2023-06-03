@@ -87,7 +87,7 @@ class Movie02Service extends BaseService{
 
     }
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -132,7 +132,7 @@ class Movie02Service extends BaseService{
     }
 
 
-    def analysis3(): Unit ={
+    override def analysis3(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -164,7 +164,7 @@ class Movie02Service extends BaseService{
     }
 
 
-    def analysis4(): Unit ={
+    override def analysis4(): Unit ={
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -200,7 +200,7 @@ class Movie02Service extends BaseService{
 
     }
 
-    def analysis5(): Any = {
+    override def analysis5(): Any = {
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
 
@@ -314,7 +314,7 @@ class Movie02Service extends BaseService{
     }
 
 
-    def analysis6(): Any = {
+    override def analysis6(): Any = {
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._
@@ -402,7 +402,7 @@ class Movie02Service extends BaseService{
     }
 
 
-    def analysis7(): Any = {
+    override def analysis7(): Any = {
 
         val spark = EnvUtil.getSparkSession
         import spark.implicits._

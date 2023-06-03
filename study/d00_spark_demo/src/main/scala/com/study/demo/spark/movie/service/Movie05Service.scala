@@ -66,7 +66,7 @@ class Movie05Service extends BaseService{
     }
 
 
-    def analysis2(): Unit ={
+    override def analysis2(): Unit ={
 
         // 获得movieID = 2116  (userID, rating)
         val userID_rating: RDD[(String, Int)] = movieDao.ratingsRdd.filter(_._2 == "2116").map(x => (x._1, x._3.toInt))
