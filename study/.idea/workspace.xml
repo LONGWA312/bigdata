@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/common/BaseApplication.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/common/BaseApplication.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/common/BaseController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/common/BaseController.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/common/BaseDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/common/BaseDao.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/common/BaseService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/common/BaseService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie00Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie00Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie01Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie01Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie02Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie03Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/application/Movie03Application.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie00Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie00Controller.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie01Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie01Controller.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie02Controller.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie03Controller.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/controller/Movie03Controller.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/dao/MovieDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/dao/MovieDao.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie00Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie00Service.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie01Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie01Service.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie02Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie02Service.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie03Service.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/utils/EnvUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/utils/EnvUtil.scala" afterDir="false" />
-    </list>
+    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +143,7 @@
       <workItem from="1685724458135" duration="733000" />
       <workItem from="1685760949148" duration="4065000" />
       <workItem from="1685784314693" duration="4331000" />
-      <workItem from="1685793916996" duration="6885000" />
+      <workItem from="1685793916996" duration="7131000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1685714109882</created>
