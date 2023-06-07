@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2" />
+    <list default="true" id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="2">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie07Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/d00_spark_demo/src/main/scala/com/study/demo/spark_sql/movie/service/Movie07Service.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s00_spark_study/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/s00_spark_study/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s00_spark_study/src/main/scala/com/study/spark/spark_sql/function/F01_rdd_to_dataframe.scala" beforeDir="false" afterPath="$PROJECT_DIR$/s00_spark_study/src/main/scala/com/study/spark/spark_sql/function/F01_rdd_to_dataframe.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -24,41 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/WorkSpace/IdeaProjects/Git/bigdata/study/d00_spark_demo/src/main/scala/com/study/demo/spark/movie/application",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.14959723",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/s00_spark_study/data/input" />
+  </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.demo.spark_sql.movie.application" />
+      <recent name="com.study.demo.spark_sql.movie.controller" />
+      <recent name="com.study.demo.spark_sql.movie.service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\IdeaProjects\bigdata\study\s00_spark_study\data\input" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark\movie\application" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark\movie\controller" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark\movie\service" />
       <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark\movie\bean" />
-      <recent name="D:\WorkSpace\IdeaProjects\Git\bigdata\study\d00_spark_demo\src\main\scala\com\study\demo\spark" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Movie03Application">
-    <configuration name="Movie00Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie00Application" />
-      <module name="d00_spark_demo" />
+  <component name="RunManager" selected="Application.F02_function_filter">
+    <configuration name="F01_rdd_to_dataframe" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.spark_sql.function.F01_rdd_to_dataframe" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.spark_sql.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,25 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie01Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark.movie.application.Movie01Application" />
-      <module name="d00_spark_demo" />
+    <configuration name="F02_function_filter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.spark_sql.function.F02_function_filter" />
+      <module name="s00_spark_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.demo.spark.movie.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Movie02Application" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark.movie.application.Movie02Application" />
-      <module name="d00_spark_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.demo.spark.movie.application.*" />
+          <option name="PATTERN" value="com.study.spark.spark_sql.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_44_Exception" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.scala.base._44_Exception" />
-      <module name="s01_scala_study" />
+    <configuration name="Movie07Application" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie07Application" />
+      <module name="d00_spark_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.scala.base.*" />
+          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Movie08Application" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.demo.spark_sql.movie.application.Movie08Application" />
+      <module name="d00_spark_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.demo.spark_sql.movie.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,15 +122,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F02_function_filter" />
+        <item itemvalue="Application.F01_rdd_to_dataframe" />
+        <item itemvalue="Application.Movie08Application" />
+        <item itemvalue="Application.Movie07Application" />
         <item itemvalue="Application.Movie03Application" />
-        <item itemvalue="Application.Movie02Application" />
-        <item itemvalue="Application.Movie01Application" />
-        <item itemvalue="Application.Movie00Application" />
-        <item itemvalue="Application._44_Exception" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="95eae14e-28eb-426e-be3f-1bf5f0f966c9" name="Changes" comment="" />
@@ -144,6 +149,7 @@
       <workItem from="1685760949148" duration="4065000" />
       <workItem from="1685784314693" duration="4331000" />
       <workItem from="1685793916996" duration="7131000" />
+      <workItem from="1686102826561" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1685714109882</created>
@@ -163,11 +169,41 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1686021256234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686021256234" />
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1686019731914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686019731914" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1686023233206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686023233206" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1686018079899" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1686023233206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686023233206" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1686018079899" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1686023233205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686023233205" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1686018079899" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1686023233206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1686023233206" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1686018079899" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

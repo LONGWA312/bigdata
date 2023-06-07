@@ -1,11 +1,11 @@
 package com.study.spark.spark_sql.function
 
+import com.study.spark.spark_sql.function.test_bean.User
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 
 
-case class User(name:String, age: Int)
 object F01_rdd_to_dataframe {
 
 
