@@ -105,7 +105,17 @@ class Movie07Service extends BaseService {
                |    10
                |""".stripMargin
 
-        spark.sql(sql_rating_year).show(false)
+        spark.sql(sql_rating_year).createOrReplaceTempView("tmp_result")
+
+        val sql_result =
+            """
+              |SELECT
+              |     movieId, title, rating_avg
+              |FROM
+              |     tmp_result
+              |
+              |""".stripMargin
+        spark.sql(sql_result).show(false)
 
 
     }
