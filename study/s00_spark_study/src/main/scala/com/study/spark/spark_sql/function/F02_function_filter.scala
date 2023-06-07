@@ -1,6 +1,6 @@
 package com.study.spark.spark_sql.function
 
-import com.study.spark.spark_sql.function.test_bean.Movie
+import com.study.spark.spark_sql.bean.Movie
 import org.apache.spark.sql.SparkSession
 
 

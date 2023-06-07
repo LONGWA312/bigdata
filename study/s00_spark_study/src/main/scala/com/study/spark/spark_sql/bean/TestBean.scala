@@ -1,4 +1,4 @@
-package com.study.spark.spark_sql.function.test_bean
+package com.study.spark.spark_sql.bean
 
 case class User(name: String, age: Int)
 
